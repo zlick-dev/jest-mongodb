@@ -42,7 +42,7 @@
     "preset": "./jest-preset.js"
   },
   "dependencies": {
-    "debug": "4.1.1",
+    "debug": "4.3.1",
     "mongodb-memory-server": "6.7.5",
     "uuid": "8.3.0"
   },
